@@ -32,7 +32,7 @@ Font Awesome – For icons.
 
 Download or clone the project:
 
-git clone https://github.com/your-username/quickcalligraphy-learning.git
+git clone https://github.com/Ashan-aptech/quickcalligraphy-learning.git
 
 
 Open the project folder.
